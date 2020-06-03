@@ -12,5 +12,6 @@ The Factory method lets a class defer instantiation it uses to subclasses”
 - The factory method pattern differs from the abstract factory pattern. The abstract factory is used to create families of (sometimes vastly different) products, and the factory method is really concerned with creating a single varying product. Abstract factories often use factory methods.
 - One drawback to this pattern is that sometimes it may be overkill for what you're trying to do. A more simplified/watered-down version of the factory method is called the simple factory.
 
+### UML
 ![Class Diagram](UML.png)
  
